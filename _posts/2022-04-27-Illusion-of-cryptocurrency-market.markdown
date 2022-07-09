@@ -39,10 +39,7 @@ If we plug Return and Investment in ROI formula, ROI for BTC is ~286% and for CR
 
 # Bitcoin dominance in Crypto10
 
-<figure style="width: 800px" class="align-center">
-  <img src="{{ '/images/post1/image2.png' | absolute_url }}" alt="">
-  <figcaption>Bitcoin dominance last 5 years.</figcaption>
-</figure>
+![no-alignment]({{ '/images/post1/image2.png' | absolute_url }})
 
 On the graph above, BTC dominance in index CRYPTO10 is shown. Average 5-year dominance is around ~ 61 % (based on CRYPTO10). Main force that is driving index level of CRYPTO10 is price of Bitcoin. With such high correlation between CRYPTO10 and BTC price, and with high dominance of Bitcoin over CRYPTO10, cryptocurrency portfolio diversification is close to impossible. Unfortunately, cryptocurrency market still is only Bitcoin market. Essentially Bitcoin dominance is much larger than shown on graph above, due to (as previously shown) very high correlation between Bitcoin price and prices of other top 10 altcoins.
 
