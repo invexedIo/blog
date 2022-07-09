@@ -24,7 +24,7 @@ Buying index fund (market capitalization-weighted index) that is holding 10 of l
 ## Investing strategy – Bitcoin (BTC)
 
 Buying BTC once a week for 1000$, from 1st January 2018 to 1st May 2022. On the 1st of May 2022 everything is sold and ROI is calculated.
-![no-alignment]({{ 'images/post1/image1.png' | absolute_url' | absolute_url }})
+![no-alignment]({{ 'images/post1/image1.png' | absolute_url }})
 
 # Graph explanation 
 
