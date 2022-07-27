@@ -20,14 +20,14 @@ For example, we took data from Google Trends (GT) and compared it with data from
 Let's look for example data for S&P 500 Index (^GSPC ticker from YF) and keyword „S&P 500“ (from GT) for the last 3 months. 
 
 ![no-alignment]({{ 'images/post2/picture_1.png' | absolute_url }})
-<sub style="text-align:center;">Picture 1. Normalized graphs for S&P 500 Index and „S&P 500“ keyword.</sub>
+<p style="text-align:center;margin-top: -15px; margin-bottom: 15px;"><sub>Picture 1. Normalized graphs for S&P 500 Index and „S&P 500“ keyword.</sub></p>
 
 Graphs on the *Picture 1*; what can we tell about them? Their coorelation is on visual level seems inverted – when one graph is in their local maximum, other graph will be at their local minumum. Math shows us that correlation between those two graphs is -32.75% which for prediction sake is not really good.
 Now, what would happen if we moved all Yahoo Finance data one or more days earlier compared to Google Trends data (to simulate prediction) – this way we would „predict“ how entering some keyword could affect the way how some stock/index price will behave the next day, or the day after, and so on (basically this would mean that we would have some kind of the prediction). Let's check how the mass entering some specific keyword could show us if it's, to at least to some percentage, possible to foretell or indicate if the value of something will go up or down based on the searches for that specific keyword.
 If we applied this mentioned data to our algorithm, along with more advanced filtering of the data, we would get calculations shown in the following picture.
 
 ![no-alignment]({{ 'images/post2/picture_2.png' | absolute_url }})
-<sub style="text-align:center;">Picture 2. Coorelation graph for Picture 1 data for 7 days.</sub>
+<p style="text-align:center;margin-top: -15px; margin-bottom: 15px;"><sub>Picture 2. Coorelation graph for Picture 1 data for 7 days.</sub></p>
 
 From the *Picuture 2* graph is visible that highest correlation for above-mentioned data is on the 5th day; 35.65%. Basically this would mean that there is 35.65% chance that S&P 500 price will follow Google Trends movement for „S&P 500“ keyword which is not blistering at all. To have a solid foundation for predicting movement, we would need at least 50.01% coorelation.
 
@@ -36,19 +36,19 @@ From the *Picuture 2* graph is visible that highest correlation for above-mentio
 I will now show some other interesting results and their respective correlation graphs.
 
 ![no-alignment]({{ 'images/post2/picture_3.png' | absolute_url }})
-<sub style="text-align:center;">Picture 3. Normalized graphs for Snapchat price stock and „snapchat stock“ keyword.</sub>
+<p style="text-align:center;margin-top: -15px; margin-bottom: 15px;"><sub>Picture 3. Normalized graphs for Snapchat price stock and „snapchat stock“ keyword.</sub></p>
 ![no-alignment]({{ 'images/post2/picture_4.png' | absolute_url }})
-<sub style="text-align:center;">Picture 4. Coorelation graph for Picture 3 data for 7 days.</sub>
+<p style="text-align:center;margin-top: -15px; margin-bottom: 15px;"><sub>Picture 4. Coorelation graph for Picture 3 data for 7 days.</sub></p>
 
 ![no-alignment]({{ 'images/post2/picture_5.png' | absolute_url }})
-<sub style="text-align:center;">Picture 5. Normalized graphs for Tesla stock price and „bear market“ keyword.</sub>
+<p style="text-align:center;margin-top: -15px; margin-bottom: 15px;"><sub>Picture 5. Normalized graphs for Tesla stock price and „bear market“ keyword.</sub></p>
 ![no-alignment]({{ 'images/post2/picture_6.png' | absolute_url }})
-<sub style="text-align:center;">Picture 6. Coorelation graph for Picture 5 data for 7 days.</sub>
+<p style="text-align:center;margin-top: -15px; margin-bottom: 15px;"><sub>Picture 6. Coorelation graph for Picture 5 data for 7 days.</sub></p>
 
 ![no-alignment]({{ 'images/post2/picture_7.png' | absolute_url }})
-<sub style="text-align:center;">Picture 7. Normalized graphs for Netflix stock price and „netflix accounts“ keyword.</sub>
+<p style="text-align:center;margin-top: -15px; margin-bottom: 15px;"><sub>Picture 7. Normalized graphs for Netflix stock price and „netflix accounts“ keyword.</sub></p>
 ![no-alignment]({{ 'images/post2/picture_8.png' | absolute_url }})
-<sub style="text-align:center;">Picture 8. Coorelation graph for Picture 7 data for 7 days.</sub>
+<p style="text-align:center;margin-top: -15px; margin-bottom: 15px;"><sub>Picture 8. Coorelation graph for Picture 7 data for 7 days.</sub></p>
 
 > # Key Takeaways
 * It is not possible to get data scaled in 1 month, or higher timeframe, period for current day the day before.
