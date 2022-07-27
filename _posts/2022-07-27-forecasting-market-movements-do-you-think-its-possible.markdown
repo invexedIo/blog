@@ -20,7 +20,7 @@ For example, we took data from Google Trends (GT) and compared it with data from
 Let's look for example data for S&P 500 Index (^GSPC ticker from YF) and keyword „S&P 500“ (from GT) for the last 3 months. 
 
 ![no-alignment]({{ 'images/post2/picture_1.png' | absolute_url }})
-<center><sub>Picture 1. Normalized graphs for S&P 500 Index and „S&P 500“ keyword.</sub></center>
+Picture 1. Normalized graphs for S&P 500 Index and „S&P 500“ keyword.{: style="color:gray; font-size: 80%; text-align: center;"}
 
 Graphs on the *Picture 1*; what can we tell about them? Their coorelation is on visual level seems inverted – when one graph is in their local maximum, other graph will be at their local minumum. Math shows us that correlation between those two graphs is -32.75% which for prediction sake is not really good.
 Now, what would happen if we moved all Yahoo Finance data one or more days earlier compared to Google Trends data (to simulate prediction) – this way we would „predict“ how entering some keyword could affect the way how some stock/index price will behave the next day, or the day after, and so on (basically this would mean that we would have some kind of the prediction). Let's check how the mass entering some specific keyword could show us if it's, to at least to some percentage, possible to foretell or indicate if the value of something will go up or down based on the searches for that specific keyword.
