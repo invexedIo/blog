@@ -38,7 +38,7 @@ google_fonts:
     weights: "400,400i,700,700i"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+  username: invexedio
 
 # Liquid
 liquid:
@@ -93,12 +93,18 @@ author:
   name: team
   picture:
   email: team@invexed.com
-  twitter:
+  twitter: invexedio
+  - title: Twitter
+    url: https://twitter.com/invexedio
+    icon: fab fa-twitter-square
 
 # Footer Links
 footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
-
+  - title: Twitter
+    url: https://twitter.com/invexedio
+    icon: fab fa-twitter-square
+  
 copyright: "Crypto & Stock Investing Strategies and Analysis"
