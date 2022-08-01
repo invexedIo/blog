@@ -51,8 +51,8 @@ I will now show some other interesting results and their respective correlation 
 <p style="text-align:center;margin-top: -20px; margin-bottom: 15px;"><sub>Picture 8. Coorelation graph for Picture 7 data for 7 days.</sub></p>
 
 > # Key Takeaways
-* It is not possible to get data scaled in 1 month, or higher timeframe, period for current day the day before.
-* There is an insanely huge amount of information that could affect the price of some stock/index.
+* Forecasting stock prices/index levels with google trend hit rates is not good investing strategy as correlation is not high enough.
+* Stock market is the ultra efficient entity with hugh number of informations. News related to some company or economy will have immediate response on price. It's much easier to forecast google trend hit rate (ticker) of some company by obsserving price change rate of some company stock price then the other way around.
 
 # Conclusion
 
