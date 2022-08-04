@@ -15,16 +15,6 @@ author:
     picture: /images/author/dario.jpg
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SP9WHB3SPS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-SP9WHB3SPS');
-</script>
-
 At the time of writing this article, Bitcoin dominance was around 42% . But is it “only“ 42%? Main assumption is that diversification of cryptocurrency portfolio (risk reduction) will be possible if Bitcoin dominance is not absolute. Why does investing in cryptocurrency Index Fund might have some benefits? Well, most importantly due to the elimination of unnecessary investing risk (e.g., picking wrong cryptocurrency or picking right cryptocurrency at the wrong time), this way only coin market risk remains and that risk is enough large by itself. Goal of this article is to investigate and compare two passive investing strategies, possibility to diversify cryptocurrency portfolio (reduce investing risk) and most importantly to see which investment strategy will lead to higher ROI (return of investment). Comparison between investing in cryptocurrency index fund vs only in BTC (Bitcoin) is given further in this article.
 
 ## Investing strategy – coin index fund
