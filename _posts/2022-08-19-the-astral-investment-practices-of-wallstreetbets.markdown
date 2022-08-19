@@ -180,7 +180,7 @@ Can you imagine having traded to peaks of almost a million dollars, during your 
 
 WSB hasn't heard from Analfarmer2 ever since. I really hope he is doing alright.
 
-![no-alignment]({{ 'images/post3/video5.mp4' | absolute_url }})
+![no-alignment]({{ 'images/post3/video5.webm' | absolute_url }})
 
 
 ### ControlTheNarrative ###
