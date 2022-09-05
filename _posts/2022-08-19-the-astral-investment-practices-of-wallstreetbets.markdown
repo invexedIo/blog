@@ -52,7 +52,7 @@ Once they're in, the next step is to read up terms and conditions as well as any
 They are now set.
 Time to lose money.
 
-![no-alignment]({{ 'images/post3/image1.jpg' | absolute_url }})
+![no-alignment]({{ 'images/post3/image0.jpg' | absolute_url }})
 <!-- <p style="text-align:center;margin-top: -20px; margin-bottom: 15px;"><sub>Picture 1: Placeholder</sub></p> -->
 
 # THE MOS EISLEY OF FINANCE 
@@ -98,7 +98,7 @@ Martin Shkreli becomes a mod.
 
 And the subreddit reaches 700 000 members by 2019. 
 
-![no-alignment]({{ 'images/post3/image2.jpg' | absolute_url }})
+![no-alignment]({{ 'images/post3/image2.png' | absolute_url }})
 
 
 # u/1ronyman 
@@ -181,7 +181,7 @@ Can you imagine having traded to peaks of almost a million dollars, during your 
 WSB hasn't heard from Analfarmer2 ever since. I really hope he is doing alright.
 
 <video width="640" height="480" controls>
-  <source src="images/post3/video5.webm" type="video/webm">
+  <source src="images/post3/video5.webm" type="video/mp4">
 </video>
 <!-- ![no-alignment]({{ 'images/post3/video5.webm' | absolute_url }}) -->
 
