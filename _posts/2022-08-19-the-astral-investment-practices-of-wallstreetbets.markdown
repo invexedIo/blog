@@ -181,7 +181,7 @@ Can you imagine having traded to peaks of almost a million dollars, during your 
 WSB hasn't heard from Analfarmer2 ever since. I really hope he is doing alright.
 
 <video width="640" height="480" controls>
-  <source src="./images/post3/video5.mp4" type="video/mp4">
+  <source src="../images/post3/video5.mp4" type="video/mp4">
 </video>
 <!-- ![no-alignment]({{ 'images/post3/video5.webm' | absolute_url }}) -->
 
